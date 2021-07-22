@@ -1,24 +1,7 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Friends app is a website that helps you keep track of all of the information of your friends!
 
-Things you may want to cover:
+You can access the website from [here](https://my-friends-list-app.herokuapp.com/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The project is created by Ziad Khobiez following the course "Learn Ruby on Rails" instructed by John Elder
